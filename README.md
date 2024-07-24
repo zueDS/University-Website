@@ -5,4 +5,5 @@
 <br>
 <img width="1418" alt="Screenshot 2024-07-24 at 11 47 28" src="https://github.com/user-attachments/assets/5b4d457a-f02b-437a-b7ff-2fbebddef7be">
 <br>
-<img width="1418" alt="Screenshot 2024-07-24 at 11 47 28" src="https://github.com/user-attachments/assets/5b4d457a-f02b-437a-b7ff-2fbebddef7be">
+<img width="1420" alt="Screenshot 2024-07-24 at 12 04 20" src="https://github.com/user-attachments/assets/c87a35f7-5564-4366-967a-b24653ed6e50">
+

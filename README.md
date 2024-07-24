@@ -8,4 +8,6 @@
 <img width="1420" alt="Screenshot 2024-07-24 at 12 04 20" src="https://github.com/user-attachments/assets/c87a35f7-5564-4366-967a-b24653ed6e50">
 <br>
 <img width="1418" alt="Screenshot 2024-07-24 at 11 48 20" src="https://github.com/user-attachments/assets/22814451-b9cc-422b-ba1f-11eb059f6d84">
+<br>
+<img width="1425" alt="Screenshot 2024-07-24 at 11 48 30" src="https://github.com/user-attachments/assets/d89efc7b-3ff7-4e59-9a1f-2d92b188a15c">
 
